@@ -44,3 +44,5 @@
 [2026-06-04T13:00:00] feat: add backup codes for MFA account recovery
 
 [2026-06-08T10:30:00] docs: add complete API reference with curl examples
+
+[2025-11-06T13:00:00] feat: bootstrap Fastify server with plugin architecture
