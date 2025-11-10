@@ -10,3 +10,5 @@
 [2026-03-09T13:22:00] feat: add loading skeleton components
 
 [2025-11-06T13:00:00] feat: bootstrap Fastify server with plugin architecture
+
+[2025-11-10T10:15:00] feat: implement Argon2id password hashing on registration
