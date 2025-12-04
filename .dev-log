@@ -12,3 +12,5 @@
 [2025-11-06T13:00:00] feat: bootstrap Fastify server with plugin architecture
 
 [2025-11-10T10:15:00] feat: implement Argon2id password hashing on registration
+
+[2025-12-04T14:00:00] feat: add JWT access + refresh token generation
