@@ -48,3 +48,4 @@
 [2025-11-06T13:00:00] feat: bootstrap Fastify server with plugin architecture
 [2025-11-10T10:15:00] feat: implement Argon2id password hashing on registration
 [2025-12-04T14:00:00] feat: add JWT access and refresh token generation
+[2025-12-08T11:30:00] feat: implement Redis session store with TTL
