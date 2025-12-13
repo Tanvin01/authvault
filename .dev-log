@@ -16,3 +16,5 @@
 [2025-12-04T14:00:00] feat: add JWT access + refresh token generation
 
 [2025-12-08T11:30:00] feat: implement Redis session store with TTL
+
+[2025-12-13T15:00:00] feat: add rate limiting middleware with sliding window
