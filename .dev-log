@@ -18,3 +18,5 @@
 [2025-12-08T11:30:00] feat: implement Redis session store with TTL
 
 [2025-12-13T15:00:00] feat: add rate limiting middleware with sliding window
+
+[2026-01-06T13:00:00] feat: implement TOTP-based MFA with otplib
