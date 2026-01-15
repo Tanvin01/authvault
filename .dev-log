@@ -22,3 +22,5 @@
 [2026-01-06T13:00:00] feat: implement TOTP-based MFA with otplib
 
 [2026-01-10T11:30:00] feat: add QR code generation for authenticator app setup
+
+[2026-01-15T14:30:00] feat: write Dockerfile and docker-compose for local dev
