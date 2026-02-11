@@ -54,3 +54,4 @@
 [2026-01-10T11:30:00] feat: add QR code generation for authenticator app setup
 [2026-01-15T14:30:00] feat: write Dockerfile and docker-compose for local dev
 [2026-02-05T13:30:00] feat: add Kubernetes deployment and HPA manifests
+[2026-02-11T10:45:00] feat: implement audit log with immutable event trail
