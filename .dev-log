@@ -59,3 +59,4 @@
 [2026-03-05T13:00:00] feat: add HaveIBeenPwned API integration for breach detection
 [2026-03-10T10:30:00] feat: implement multi-device session listing and revocation
 [2026-04-08T15:30:00] chore: add GitHub Actions workflow for Docker image build
+[2026-05-04T13:00:00] feat: add email verification flow with time-limited tokens
