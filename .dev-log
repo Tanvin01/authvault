@@ -40,3 +40,5 @@
 [2026-05-04T13:00:00] feat: add email verification flow with time-limited tokens
 
 [2026-05-09T10:30:00] refactor: extract token service into separate module
+
+[2026-06-04T13:00:00] feat: add backup codes for MFA account recovery
